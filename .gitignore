@@ -63,3 +63,7 @@ typings/
 
 
 # End of https://www.gitignore.io/api/node
+build
+node_modules
+yarn-error.log
+*.swp
